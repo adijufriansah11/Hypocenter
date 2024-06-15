@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<VTKFile type="PolyData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <PolyData>
+    <Piece NumberOfPoints="128" NumberOfVerts="0" NumberOfLines="12" NumberOfStrips="0" NumberOfPolys="0">
+      <PointData>
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="binary" RangeMin="0.1654599633496407" RangeMax="0.2907799883852509">
+          AQAAAACAAAAABgAAVwQAAA==eJxt1HtQVFUcB3AGA2TZlecC8tjLQ3mzBiwC6/n9NiCIiqhFBMZQnCYUDaFUCKgkBZoCBnAIZRNiKGaV0UEkQIznYDVO0DQ6mQ+MDDImESkF5LFYnB8TI0N/7NzZPXu/38/9nTtnZusIpB4bB9F1Vyjrm4Lvciah/kVveH3jLH1/87wPtMsMsDhGB1/cCQDPJFNME+mjZS+DklRr5GsfD4bD9g/WY3aHEf4wEA3WUieMi5Xg3w+SYWYxvzhtFO6r2ylvdM8EnN7WADGGOpi1f7jY+yXolPrI1z45Vk1dCbEz0FR1AtpuG+OGUt1iZxn1Wn2vh7svFMKnjVI827pm8Z5MwEAbMnxVemBFb3etHTbXTMDx8GL2/jp7fJxJXeyPUnvqmqrtZfuOOOCsTMddbHjCEb1P6iOfw8ObMsrcMucP06UCfv2T8arnuq8ORqFwDDIs8lnH6UB8o26C8vO0fpSv8r3GKv+U4xnxHOW/ZyXHXcnzcFnQg9fiPFAVtdQVf2gDdb11Qsn3APsjDHH4Z9WKLj6/33KtMDFEwXh2Vr0FvpBTzhQjc+DyxBx5L89INDPDgIQhZjlihHxeO1SP2L3AtfhjpCk3Mf7b+f0SbLtoDRUGllikFpPhM8161LwqQhhUQnunA2q+MVn1vNzG/8fnWVfuijO+ttT7odYFfy+xpPyxTmfqHTV2gcomZ5yNNqX8p3Pq3wbMrLDle8fkuSE4mWZNOXye+wek+MvaJlZQ64ddmyzwv7m9k2iGUVoJ7Ij2ofzuZmto7fHEy/cklM9tD2pEOD4bDumnXDAre7Wfvwt5+9jyDFMPBqNJcwobmp6ivYxJ2MMGp/UwveFZ8jg+0Ufe7Y8tNNuIbd5oWPItm5sU8U5M8ZxiZ41MUNrjujzbRn8ZdtWL4eqcBc2q/pw9PJq2wktim+U5D6WYY15LEOB1B3oWmysvr3DGtstQe/J57DxkyXJ6ZPgXhPN72XyfDJPKwlCi78PyHsuQm6uTK9g/RgLmVAWSWdgskPnC1SusI0nAArEH2S5lC2TWmzeC8IsCDu61I4+uWyDnrRA3SDFyIo9mIQyMxU4YfWbdqhnm976E/MM9Y7ER5DmSnMn49bYKsc+vnBVJnsOgXUryFLYiOYcyGml/QyvlOHXgDju6EETOFtEI214diB4Hvcgp8fEjJ+wVA1832ShgW5ItlG/xRt3Akrki04vMwxbuIBt1JbO6IJTegcqtphj3TNgqc0hLFN1reyCSzAlZ7sCva8YZan/1ApedKnKq233pXZC6y7FKqgBxRDA5a50V8O6mJZtBr5Js/vECnusFOOq25AmoCQVNhhuOm0v/d279dRHIz8Cxoigy2B1uIcNOTyVGZjeAAkPJcGNcC8Gfq/CGyWY+Q0i7G0KGLlcN2QzuemO/4jhcO6XAm7fckJ+Nqen+ZCuWF5NNb8QRXxHyYWBhyXb4o1yIN/ZE9W4bOjOftv0LWPlNXQ==
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0.16545996335
+            </Value>
+            <Value index="1">
+              0.29077998839
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Verts>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="0" RangeMax="127">
+          AQAAAACAAAAABAAA0wAAAA==eJwtxdNCGAAAAMBs29yybXMt27bt+vUeunu5gIBfgQ5ysEMc6jCHO8KRjnK0YxzrOMc7wYlOcrJTnOo0pzvDmc5ytnOc6zznu8CFLnKx//ivS1zqMpe7wpWucrVrXOs617vBjW5ys1vc6ja3u8Od7nK3e9zrPvd7wIMe8rBHPOoxj/ufJ/zfk57ytGc86znPe8GLXvKyV7zqNa97w5ve8rZ3vOs97/vAhz7ysU986jOf+8KXvvK1b3zrO9/7wY9+8rNf/Oo3v/vDn/7yt38AsHYfwQ==
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="8" RangeMax="128">
+          AQAAAACAAABgAAAAKAAAAA==eJzjYIAAISgtBaWVobQelDaB0nZQ2gdKR0LpDChdDKUboDQAafgC+A==
+        </DataArray>
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Polys>
+    </Piece>
+  </PolyData>
+</VTKFile>

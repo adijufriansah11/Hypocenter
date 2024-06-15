@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<VTKFile type="PolyData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <PolyData>
+    <Piece NumberOfPoints="128" NumberOfVerts="0" NumberOfLines="12" NumberOfStrips="0" NumberOfPolys="0">
+      <PointData>
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="binary" RangeMin="0.1610527902930424" RangeMax="0.2907799883852509">
+          AQAAAACAAAAABgAAWAQAAA==eJxllHtM01cUx9HYQrpBpUDXAi1KKQPKSiuPAd5zYIIDBRZQBCUQJIGMMQOGRzQ+IAronHO8HMJ8jVEBnWAcD8k0bLiYGR4ZzG1k7IFLfYWHBgZCgMF6TxMzwh+/nPvLvfl+P+d7cu+WvY/BpXQMpv+NZ5qaGXh0chpEQ/Ws7O4MKC9Pw2i2gRX9Ogv8/8LIV6xTKcCzA8twTz/BGuKEmHzSAk177AoTI9/b4+EEnsliTNELsKrCCXJ/scXBRiGKhlTwea0c9/9pg9mHo2CgyRE3LorxgTEW5nYaIbNiAviZt8emyMvaxYOqLnoWXCc9gGs3KdagxqiF2WPW5KUS+JFXmlyIg+H+ULgow4xSG+zvi16lf3rfUxiP6yTNR8FTEJTdAJqIOVDe+If3C9N/LNCem/cX5FXruQT3TlWAViNE/e5lk08ZeX3Yvw4z4g/Cz7+b+w2dLgDlE1O/aoEphwLQpMow/aKIGHi/R4qscWrpvRU843GByDPPkRSzmnY/9FZPUuadLXqeJZRHf8sO22vx/V0LEJE4wqS1GrSyXeZ8TPqXinzrs5Q8L/RxE2D5CSUsFLniRq05Z1GqE74jE6/KgWfw9yF73B3kR/P9+LoEE4or2bzPPKQpJUgMJu1exXpEZmT+hZbY8pGY5ivxtULef2/eAuN17pw1PliSw5SDBPcYXyff5xMyOtPZF7HCl3PyLKrDTjNYdMXaMBl5BWk34Oi4Hek3ZSowZlBMOreeOSLOreY37AcsqJLxnBnPUHdZij199exabCC2XZKS5u1ILZZ1S0iTZ3iiWYLygll2Y5+a2HzzXeCtg26YlGX2+r/+1xdfQFEWo3ySumdoTrlZmea7YFpfy89k9iUWGDuoI6+F2rXIPa6faqfc2lq98PHLHtahFuHwvIoYKkNF3AdzWl5SbmutFBjcbgs5P9hSJrmWziCvs8P4YemrOyIV2OKwfPsKth2dSmw4H4538u3Y6HkldgSH8fNs6YwSk8u2YHWPhmV1KpAzf99VyWyOKDA635849z50Js53Pxlg4WnOeODmm8SW94Yzse18LoTRFCficbytgkOmdWOVfFU+xd9tR/5xX0NiOPkmjOQxXiWBoag+UMq+NAIaXILJd8dRRjxPLJppXtMvNqG95j6zPONHPMJPHzIh06PoR89X85rsU+O6GAE4lnsTW1KQCOpa3YjtwmYVVB13Q12CmY3vJ7bKsOSp+yrOoLZIOrOhaytx3ryjBl59LyGmL7nDfDYQW5SDJ835isMmbNymAe16f2Kr/80beA3KUeNPR3Vg02/mSd+mh13NZp6Q1ABiGOuV4bHqwFUMvXVbkb85repIYrg73koM2snNWPTsKhQeDyGGoQADdMSEoK9dIM+NeMLu+2CU7hy8ZgwgnjU1Z6HLwg+1Bi/kb9E37lrime8oIc7gbhXe+qwEBro9UJmhoLcoJlFNnFdTPiDOthAZek1krOD8D74/Wq0=
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0.16105279029
+            </Value>
+            <Value index="1">
+              0.29077998839
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Verts>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="0" RangeMax="127">
+          AQAAAACAAAAABAAA0wAAAA==eJwtxdNCGAAAAMBs29yybXMt27bt+vUeunu5gIBfgQ5ysEMc6jCHO8KRjnK0YxzrOMc7wYlOcrJTnOo0pzvDmc5ytnOc6zznu8CFLnKx//ivS1zqMpe7wpWucrVrXOs617vBjW5ys1vc6ja3u8Od7nK3e9zrPvd7wIMe8rBHPOoxj/ufJ/zfk57ytGc86znPe8GLXvKyV7zqNa97w5ve8rZ3vOs97/vAhz7ysU986jOf+8KXvvK1b3zrO9/7wY9+8rNf/Oo3v/vDn/7yt38AsHYfwQ==
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="11" RangeMax="128">
+          AQAAAACAAABgAAAAKAAAAA==eJzjZoAAYSgtD6U1obQxlLaE0o5Q2g9KR0LpdChdBKUboDQAccADFA==
+        </DataArray>
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="1e+299" RangeMax="-1e+299">
+          AAAAAACAAAAAAAAA
+        </DataArray>
+      </Polys>
+    </Piece>
+  </PolyData>
+</VTKFile>
